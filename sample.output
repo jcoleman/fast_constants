@@ -1,0 +1,6 @@
+Warming up --------------------------------------
+      without colons   299.151k i/100ms
+         with colons   304.290k i/100ms
+Calculating -------------------------------------
+      without colons      8.640M (± 5.2%) i/s -     43.377M in   5.034951s
+         with colons      8.759M (± 5.9%) i/s -     43.818M in   5.020783s
